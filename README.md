@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Tomás Otero García</h1>
-<h3 align="center" style="text-align: center">I have a degree in design and innovation in business and I decided to do the bootcamp at LeWagon to fulfill my dream of becoming a web programmer, specialized in front-end. I really like technology and I also take every opportunity I get to keep learning. Now I am looking for a job as a front-end programmer, my previous studies complement my vision of business, innovation and design very well.</h3>
+<h3 align="center" style="text-align: justify">I have a degree in design and innovation in business and I decided to do the bootcamp at LeWagon to fulfill my dream of becoming a web programmer, specialized in front-end. I really like technology and I also take every opportunity I get to keep learning. Now I am looking for a job as a front-end programmer, my previous studies complement my vision of business, innovation and design very well.</h3>
 
 - 🌱 I’m currently learning **JavaScript & React**
 
