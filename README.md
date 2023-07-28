@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm José Tomás Otero García</h1>
 <h3 align="center" style="text-align: justify">I am a web programmer which is my passion, specialized in front-end. I really like technology and I also take every opportunity I get to keep learning. Also I have a degree on business and innovation in design, these studies complement my vision of business, innovation and design very well in programming.</h3>
 
+--- 
+
 - 🌱 I’m currently learning **JavaScript & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JTOtero19?tab=repositories](https://github.com/JTOtero19?tab=repositories)
