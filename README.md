@@ -22,4 +22,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtotero19&show_icons=true&theme=dark&title_color=f4f4f4&text_color=f4f4f4&locale=en&layout=compact" alt="jtotero19" /></p>
+<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtotero19&show_icons=true&theme=dark&title_color=f4f4f4&text_color=f4f4f4&locale=en&layout=compact" alt="jtotero19" /></p>
