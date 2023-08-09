@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JTOtero19?tab=repositories](https://github.com/JTOtero19?tab=repositories)
 
--
+- 📫 How to reach me **otero.josetomas@gmail.com**
 
 ---
 
