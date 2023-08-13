@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JTOtero19?tab=repositories](https://github.com/JTOtero19?tab=repositories)
+- 👨‍💻 All of my projects are available at https://jtotero19.notion.site/Portfolio-661c31fd5f0f474cbbf6b3b9214a52e0?pvs=4
 
 - 📫 How to reach me **otero.josetomas@gmail.com**
 
